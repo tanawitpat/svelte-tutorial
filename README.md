@@ -9,7 +9,7 @@ cd my-svelte-project
 # Install dependencies
 yarn install
 
-# Enable TypeScript
+# Enable TypeScript (Optional - Dependencies reinstalling is required.)
 node scripts/setupTypeScript.js
 
 # Start a service
