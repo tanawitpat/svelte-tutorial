@@ -3,8 +3,8 @@
 ## Initialize Svelte project
 
 ```bash
-npx degit sveltejs/template my-svelte-project
-cd my-svelte-project
+npx degit sveltejs/template <your_project_name>
+cd <your_project_name>
 
 # Install dependencies
 yarn install
