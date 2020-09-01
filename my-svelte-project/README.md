@@ -11,3 +11,7 @@ yarn run dev
 ## Project Maintainer
 
 - Tanawit Pattanaveerangkoon <<tanawit.pat@gmail.com>>
+
+## Reference
+
+- <https://freshman.tech/svelte-todo>
